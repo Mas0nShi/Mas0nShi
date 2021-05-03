@@ -15,6 +15,6 @@
 ## 📫 Reach Me
 
 - Twitter: https://twitter.com/MasonShi7
-- Email: [mailto:Mas0nShi@88.com](Mas0nShi@88.com)
+- Email: [Mas0nShi@88.com](mailto:Mas0nShi@88.com)
 - Blog: https://shi1011.cn
 - QQ: 1281814306
