@@ -1,6 +1,7 @@
 ## Hello GitHub Fans 👋
 
-Hi guys, I'm **Mason Shi** . I am a undergraduate students from Zhejiang, China. I'm currently learning with `JavaScript`，`python`，`C++` and reverse engineering.
+Hi guys, I'm **Mason Shi** . I am a undergraduate students from Zhejiang, China. 
+
 I have some works with reverse engineering, contact me if you have same interesting or some questions!
 
 <p align="center">
@@ -10,8 +11,16 @@ I have some works with reverse engineering, contact me if you have same interest
 
 ## 🔭 Learning
 
-
-- Reverse Engineering
+![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-gray?style=flat-square&logo=python)
+![Nodejs](https://img.shields.io/badge/-Nodejs-gray?style=flat-square&logo=Node.js)
+![Material_UI](https://img.shields.io/badge/-Material_UI-gray?style=flat-square&logo=material-ui)
+![HTML5](https://img.shields.io/badge/-HTML5-gray?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-gray?style=flat-square&logo=css3)
+![C++](https://img.shields.io/badge/-cpp-gray?style=flat-square&logo=c)
+![Git](https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-gray?style=flat-square&logo=ubuntu)
 
 
 ## 📫 Reach Me
