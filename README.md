@@ -28,4 +28,4 @@ I have some works with reverse engineering, contact me if you have same interest
 - Twitter: https://twitter.com/MasonShi7
 - Email: [MasonShi@88.com](mailto:MasonShi@88.com) / [fishilir@gmail.com](mailto:fishilir@gmail.com)
 - Blog: https://blog.shi1011.cn
-- QQ: MTI4MTgxNDMwNg==
+- QQ: `MTI4MTgxNDMwNg==`
