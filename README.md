@@ -5,10 +5,8 @@ Hi guys, I'm **Mason Shi** . I am an undergraduate student from Zhejiang, China.
 I have some works with reverse engineering, contact me if you have same interesting or some questions!
 
 <div align=center>
-<img align="left" src="/general.svg" alt="general">
-<img align="right" src="/achievements.svg" alt="achievements">
+<img align="center" src="/general.svg" alt="general"><img align="center" src="/achievements.svg" alt="achievements">
 
-achievements
 </div>
 
 ## 🔭 Learning
