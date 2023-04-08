@@ -4,10 +4,9 @@ Hi guys, I'm **Mason Shi** . I am an undergraduate student from Zhejiang, China.
 
 I have some works with reverse engineering, contact me if you have same interesting or some questions!
 
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=Mas0nShi&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Mas0nShi&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true">
-</p>
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 ## 🔭 Learning
 
@@ -28,4 +27,3 @@ I have some works with reverse engineering, contact me if you have same interest
 - Twitter: https://twitter.com/Mas0nShi
 - Email: [fishilir@gmail.com](mailto:fishilir@gmail.com)
 - Blog: https://blog.shi1011.cn
-- QQ: `MTI4MTgxNDMwNg==`
