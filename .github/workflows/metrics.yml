@@ -42,16 +42,15 @@ jobs:
           plugin_achievements_display: compact
           plugin_fortune: yes
           
-      - name: 🦑 General
+      - name: 🦑 Isocalendar
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: general.svg
+          filename: isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header
-          base_indepth: yes
+          base: ""
           config_display: columns
-          config_order: base.header, isocalendar
+          config_order: isocalendar
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           plugin_isocalendar: yes
