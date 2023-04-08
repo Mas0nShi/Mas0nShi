@@ -43,7 +43,3 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: false
           plugin_languages_limit: 5
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-          plugin_notable: yes
