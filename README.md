@@ -4,9 +4,7 @@ Hi guys, I'm **Mason Shi** . I am an undergraduate student from Zhejiang, China.
 
 I have some works with reverse engineering, contact me if you have same interesting or some questions!
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+![General](/general.svg)
 
 ## 🔭 Learning
 
