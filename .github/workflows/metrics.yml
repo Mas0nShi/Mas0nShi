@@ -21,6 +21,7 @@ jobs:
           base: ""
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
+          config_display: columns
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
@@ -33,6 +34,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
           base_indepth: yes
+          config_display: columns
           config_order: base.header, isocalendar, languages, notable, discussions, topics
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
