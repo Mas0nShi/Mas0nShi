@@ -1,6 +1,6 @@
 ## Hello GitHub Fans 👋
 
-Hi guys, I'm **Mason Shi** . I am an ~~undergraduate student~~ wage slave from Zhejiang, China. 
+Hi guys, I'm **Mason Shi** . I am an ~~undergraduate student~~ wage slave. 
 
 I have some works with reverse engineering, contact me if you have same interesting or some questions!
 
